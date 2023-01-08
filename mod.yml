@@ -1,0 +1,9 @@
+title: AX2BossRandoLimitFormFix
+originalAuthor: Shananas
+game: kh2
+description: Gives limit form movement so you dont tpose in Armor Xemnas 2 arena during Boss Rando.
+assets:
+- name: obj/P_EX100_KH1F.mset
+  method: copy
+  source:
+  - name: obj/P_EX100_KH1F.mset
