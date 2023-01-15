@@ -1,3 +1,3 @@
-# AX2BossRandoLimitFormFix
+# BossRandoFormMovementFix
 
-Gives limit form movement so you dont tpose in Armor Xemnas 2 arena during Boss Rando.
+Gives all forms movement so you dont t-pose during Boss Rando when having level 5 movement which applies even to forms of sora.
