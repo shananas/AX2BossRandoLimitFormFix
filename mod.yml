@@ -1,7 +1,7 @@
 title: BossRandoFormMovementFix
 originalAuthor: Shananas
 game: kh2
-description: Gives all forms movement so you dont tpose during Boss Rando when having level 5 movement which applies even to forms of sora.
+description: Gives all forms movement so you dont t-pose during Boss Rando when having level 5 movement which applies even to forms of sora.
 assets:
 - name: obj/P_EX100_BTLF.mset
   method: copy
